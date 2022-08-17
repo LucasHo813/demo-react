@@ -26,7 +26,7 @@ export default function ProductList() {
     return (
         //React Fragment 簡寫
         <>
-            <Title mainTitle="請選擇要購買的水果 v2"/>
+            <Title mainTitle="請選擇要購買的水果"/>
 
             <div>
             {
